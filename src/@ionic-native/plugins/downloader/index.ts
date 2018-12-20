@@ -72,7 +72,7 @@ export interface DownloadRequest {
  *
  * @usage
  * ```typescript
- * import { Downloader } from '@ionic-native/downloader/ngx';
+ * import { Downloader , DownloadRequest , NotificationVisibility } from '@ionic-native/downloader';
  *
  *
  * constructor(private downloader: Downloader) { }
